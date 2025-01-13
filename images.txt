@@ -5,12 +5,13 @@
 #docker.getcollate.io/openmetadata/server:1.5.3
 #docker.getcollate.io/openmetadata/ingestion:1.5.3
 
-eosphorosai/dbgpt:latest
+#eosphorosai/dbgpt:latest
 #---
-langgenius/dify-api:0.14.2
-langgenius/dify-web:0.14.2
+langgenius/dify-api:1.0.0-beta.1
+langgenius/dify-web:1.0.0-beta.1
+langgenius/dify-plugin-daemon:0.0.1-local
 #langgenius/dify-sandbox:0.2.10
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
+#downloads.unstructured.io/unstructured-io/unstructured-api:latest
 #langgenius/dify-api:0.8.3
 #langgenius/dify-web:0.8.3
 #postgres:15-alpine
