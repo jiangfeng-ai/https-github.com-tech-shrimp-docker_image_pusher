@@ -1,3 +1,5 @@
+flowable/flowable-ui
+
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #docker.getcollate.io/openmetadata/db:1.5.3
@@ -7,9 +9,9 @@
 
 #eosphorosai/dbgpt:latest
 #---
-langgenius/dify-api:1.0.0-beta.1
-langgenius/dify-web:1.0.0-beta.1
-langgenius/dify-plugin-daemon:0.0.1-local
+#langgenius/dify-api:1.0.0-beta.1
+#langgenius/dify-web:1.0.0-beta.1
+#langgenius/dify-plugin-daemon:0.0.1-local
 #langgenius/dify-sandbox:0.2.10
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 #langgenius/dify-api:0.8.3
